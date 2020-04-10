@@ -9,7 +9,8 @@
     name: 'HelloWorld',
     data() {
       return {
-        arr: [1, 2, 3, 4, 5]
+        arr: [1, 2, 3, 4, 5],
+        msg: '我是version组件的数据'
       }
     }
   }
