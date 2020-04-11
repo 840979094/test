@@ -2,7 +2,6 @@
   <div class="hello">
     <h1>{{msg}}</h1>
     <h2>阿什顿看</h2>
-    <h3>adlho1</h3>
   </div>
 </template>
 
