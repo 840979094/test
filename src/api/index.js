@@ -9,3 +9,6 @@ function B() {
 function D() {
     console.log('D')
 }
+function C() {
+    console.log('C')
+}
